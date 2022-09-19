@@ -1,0 +1,14 @@
+npm i html-validate --save-dev
+
+
+added 45 packages, and audited 212 packages in 9s
+
+10 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+
+
+
+npm install -g html-validate
+html-validate *.html
